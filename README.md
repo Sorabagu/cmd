@@ -8,6 +8,7 @@
 2. **Enter Commands**: Type any Windows command in the input field and press Enter to execute.
 3. **Customize Background**: Go to the "File" menu and select "Change Background" to personalize the application.
 4. **View Command List**: Type `list cmd` to see a list of supported commands with their descriptions.
+5. **Show command description**: Type `cmd *` (replace `*` with the command name)
 
 ## Key Features
 
