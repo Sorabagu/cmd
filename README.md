@@ -11,7 +11,8 @@
 3. **Customize Background**: Go to the "File" menu and select "Change Background" to personalize the application.
 4. **View Command List**: Type `list cmd` to see a list of supported commands with their descriptions.
 <img src="https://github.com/Sorabagu/cmd/blob/main/cmd2.png?raw=true">
-5. **Show command description**: Type `cmd *` (replace `*` with the command name)
+
+5. **Show command description**: Type `cmd *` (replace `*` with the command name).
 <img src="https://github.com/Sorabagu/cmd/blob/main/cmd3.png?raw=true">
 
 ## Key Features
