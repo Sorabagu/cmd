@@ -2,13 +2,17 @@
 
 **Custom CMD** is a lightweight and user-friendly application that provides an enhanced interface for running commands on Windows. It features an easy-to-use design with customizable options.
 
+<img src="https://github.com/Sorabagu/cmd/blob/main/cmd.png?raw=true">
+
 ## How to Use
 
 1. **Launch the Application**: After installation, open **Custom CMD**.
 2. **Enter Commands**: Type any Windows command in the input field and press Enter to execute.
 3. **Customize Background**: Go to the "File" menu and select "Change Background" to personalize the application.
 4. **View Command List**: Type `list cmd` to see a list of supported commands with their descriptions.
+<img src="https://github.com/Sorabagu/cmd/blob/main/cmd2.png?raw=true">
 5. **Show command description**: Type `cmd *` (replace `*` with the command name)
+<img src="https://github.com/Sorabagu/cmd/blob/main/cmd3.png?raw=true">
 
 ## Key Features
 
