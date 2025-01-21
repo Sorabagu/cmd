@@ -1,4 +1,5 @@
 # Custom CMD
+![CMD](https://img.shields.io/badge/version-1.0.1-blue) ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 
 **Custom CMD** is a lightweight and user-friendly application that provides an enhanced interface for running commands on Windows. It features an easy-to-use design with customizable options.
 
